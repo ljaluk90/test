@@ -1,0 +1,32 @@
+{
+    "Sucursales":[
+        {
+            "id":1,
+            "teléfono": "telefono",
+            "dirección": "direccion",
+            "latitud": "laltitud",
+            "longitud": "longitud"
+        },
+        {
+            "id":2,
+            "teléfono": "telefono2",
+            "dirección": "direccion2",
+            "latitud": "laltitud2",
+            "longitud": "longitud2"
+        },
+        {
+            "id":3,
+            "teléfono": "telefono3",
+            "dirección": "direccion3",
+            "latitud": "laltitud3",
+            "longitud": "longitud3"
+        },
+        {
+            "id":4,
+            "teléfono": "telefono4",
+            "dirección": "direccion4",
+            "latitud": "laltitud4",
+            "longitud": "longitud4"
+        }
+    ]
+}
